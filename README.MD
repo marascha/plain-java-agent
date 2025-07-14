@@ -51,6 +51,10 @@ This demo demonstrates:
 
 ![Overview - Tool calling](./doc/overview.png)
 
+## 🎥 Demo
+
+![Demo - Screencast](./doc/screencast.webm)
+
 ## 🧪 Usage
 
 ```shell
