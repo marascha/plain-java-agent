@@ -30,7 +30,7 @@ This demo demonstrates:
 
 ### Demo
 
-![Demo - Screencast](./doc/screencast.webm)
+![Demo - Screencast](https://github.com/marascha/plain-java-agent/raw/refs/heads/master/doc/screencast.webm)
 
 ---
 
